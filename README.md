@@ -37,5 +37,5 @@ Model Testi
 
 model_testi.py dosyasını kullanarak modelinizi test edebilir ve tahminler yapabilirsiniz.
 
-
+data : https://drive.google.com/drive/folders/1UmWO_6hxcowwOGCOvmklZ0nWI-8CcnSi?usp=sharing
 
