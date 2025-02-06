@@ -29,6 +29,8 @@ Bu dosya, görsellerin bozuk olup olmadığını kontrol eder ve bozuk olanları
 
 Bozuk görsellerin tespitini yapan dosyanın adı: BozukResimTespiti.py'dir. Bu dosya, görsellerin doğruluğunu kontrol ederek veri setindeki hatalı resimleri bulmanıza yardımcı olur.
 
+eğitilmiş model dosyası : CadDog_CNN_model.keras
+
 Model Testi
   Modelin doğruluğunu test etmek ve yeni veriler üzerinde tahmin yapmak amacıyla, model_testi.py adlı bir dosya oluşturulmuştur. 
   Bu dosya, verilen bir klasördeki resimleri yükleyip, modelin bu resimleri sınıflandırmasını sağlar.
